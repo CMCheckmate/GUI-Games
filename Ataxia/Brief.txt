@@ -1,0 +1,23 @@
+CONCEPTUAL STATEMENT
+Your aim is to create a survival clicker/shooter game.
+The program is to operate on equipment provided by the school using the Windows environment.
+SPECIFICATIONS
+The game must have instructions on how to play.
+The user must be able to:
+- Use the direction keys (w, a, s, d) to control the movement of the character on screen
+- Use the mouse to click and shoot projectiles
+- Restart the game once the game is over
+The character must not be able to disappear off the screen (e.g. the top, bottom, left or right of the screen).
+The character must have smooth movement with no delay upon direction input.
+Both the player and enemies should have a health system.
+Enemy health must reduce when hit by a player projectile.
+Enemies must spawn in waves with each wave increasing in difficulty (e.g. number of enemies).
+Enemies must die and be removed when health dropped to 0.
+The player's health must decrease when damaged by enemy.
+Game must end when the player's health drops to 0.
+Enemy waves must continue to spawn until the player dies.
+The scoring system should be based off the amount of waves of enemies the player survives.
+
+The game should not lag or reduce performance based on the length of gameplay or once the game is
+restarted.
+The game must work as described but does not need to be ‘pretty’.
